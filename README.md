@@ -1,2 +1,2 @@
 # Ucgen-Hesaplama-PHP
-Üçgenin iç açılarına göre hangi tür üçgen olduğunu söyleyen bir PHP uygulaması
+Kullanıcı tarafından girilen üçgenin iç açılarına göre hangi tür üçgen olduğunu söyleyen bir PHP uygulaması
