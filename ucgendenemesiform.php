@@ -19,7 +19,7 @@
     }
     else{
 
-        if($aci1==$aci3&&$aci1==$aci2){
+        if($aci1==$aci3 and $aci1==$aci2){
             echo"Bu bir eşkenar üçgendir";
         }
         
